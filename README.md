@@ -1,5 +1,11 @@
 # INAV 1.7.3 Flight Controller
 
+### Getting Started with STM32F103C8T6
+https://www.electronicshub.org/how-to-upload-stm32f103c8t6-usb-bootloader/
+
+![image](https://user-images.githubusercontent.com/19993109/140780448-febede84-03c3-4273-a66f-178484e75ccb.png)
+
+
 ## Download inav_1.7.3_STM32F103C8T6.hex
 
 
