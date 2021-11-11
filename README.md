@@ -28,6 +28,23 @@ https://github.com/iNavFlight/inav-configurator/releases/tag/2.1.0
 
 ### NOTE: It will not work in versions higher than 2.1.0.
 
+## Upload Firmware
+* Step 1 and Step 2
+![image](https://user-images.githubusercontent.com/19993109/141267643-f8971246-7724-4021-9e5d-1998848587ae.png)
+
+* Step 3 Open Load Firmware file.
+
+![image](https://user-images.githubusercontent.com/19993109/141267858-dd03625d-053d-4b0a-a45d-38c334ea5253.png)
+
+* Step 4, Flash Firmware
+
+![image](https://user-images.githubusercontent.com/19993109/141267945-9cba0dc3-a6b1-4832-b9b9-d05921df7dd7.png)
+
+* Step 5 Bring the BOOT pin back to its original position.
+
+![image](https://user-images.githubusercontent.com/19993109/141268997-cdf3e8ef-b9f4-4aab-9d6f-25ddc8efb2b9.png)
+
+* Step 6 INAV configurator Connect to the development board by clicking the Connect button..
 
 Confirm by clicking the 5” GPS option for GPS support. Save by clicking the blue Save and Rebot button at the bottom right of the window.
 
